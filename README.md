@@ -15,3 +15,5 @@ Benten is able to transform images into predefined permutations.
 	- Converts the image into a collection of unconnected blobs defined by color that permiate in random directions
 - ColorReducer
 	- Converts the image to be composed only of a certain number of colours
+- Silhoutter
+	- Uses edge detection to reduce the image down to only its consituent edges
